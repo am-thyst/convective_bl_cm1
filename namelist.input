@@ -11,11 +11,11 @@
  /
 
  &param1
- dx     =    25.0,
- dy     =    25.0,
- dz     =    25.0,
+ dx     =    40.0,
+ dy     =    40.0,
+ dz     =    16.0,
  dtl    =   1.500,
- timax  = 4300.0,
+ timax  = 43200.0,
  run_time =  -999.9,
  tapfrq =  3600.0,
  rstfrq = 10800.0,
@@ -384,7 +384,7 @@
  do_lsnudge_qv      =    .false.,
  lsnudge_tau        =    60.0,
  lsnudge_start      =    0.0,
- lsnudge_end        =    7200.0,
+ lsnudge_end        =    43200.0,
  lsnudge_ramp_time  =     0.0,
  /
 
