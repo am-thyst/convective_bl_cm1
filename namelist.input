@@ -11,11 +11,11 @@
  /
 
  &param1
- dx     =    40.0,
- dy     =    40.0,
- dz     =    16.0,
+ dx     =    25.0,
+ dy     =    25.0,
+ dz     =    25.0,
  dtl    =   1.500,
- timax  = 7200.0,
+ timax  = 4300.0,
  run_time =  -999.9,
  tapfrq =  3600.0,
  rstfrq = 10800.0,
